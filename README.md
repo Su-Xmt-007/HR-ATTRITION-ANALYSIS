@@ -190,12 +190,14 @@ This will:
 
 The interactive Power BI dashboard provides a two-page executive-level view:
 
-**Page 1 — Overview:**
+**HR Attrition Analysis:**
+
+<img width="1185" height="513" alt="HR Attrition Analysis Dashboard top half" src="https://github.com/user-attachments/assets/d4c0ccc0-e570-4081-80b1-5c5ab3d03cb6" />
+<img width="1184" height="507" alt="HR Attrition Analysis Dashboard bottom half" src="https://github.com/user-attachments/assets/9eb0f26f-341b-469a-9160-0a1b37b4f456" />
+
 - 6 KPI cards (Attrition Rate, Total Employees, Income Gap, High Risk Count, Danger Zone Rate, Safe Zone Rate)
 - Department, Marital Status, and Tenure attrition breakdowns
 - Overtime donut chart and narrative story band
-
-**Page 2 — HR Intervention:**
 - Combined Travel × Stock Options risk segmentation
 - Job role income vs attrition table
 - Actionable insight cards with recommended interventions
