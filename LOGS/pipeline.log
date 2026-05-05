@@ -1,0 +1,32 @@
+2026-04-16 22:56:40,189  INFO  Pipeline STARTED
+2026-04-16 22:56:40,191  INFO  Extracting: ../data/ibm_hr_raw.csv
+2026-04-16 22:56:40,284  INFO  Extracted: 1470 rows
+2026-04-16 22:56:40,290  INFO  Starting transform...
+2026-04-16 22:56:40,354  INFO  Transform done: 1470 rows x 38 cols
+2026-04-16 22:56:40,464  INFO  Saved: ../data/hr_cleaned.csv
+2026-04-16 22:56:40,465  INFO  Pipeline DONE in 0s
+2026-04-16 22:56:40,467  INFO  Pipeline STARTED
+2026-04-16 22:56:40,468  INFO  Extracting: ../data/ibm_hr_raw.csv
+2026-04-16 22:56:40,485  INFO  Extracted: 1470 rows
+2026-04-16 22:56:40,487  INFO  Starting transform...
+2026-04-16 22:56:40,550  INFO  Transform done: 1470 rows x 38 cols
+2026-04-16 22:56:40,612  INFO  Saved: ../data/hr_cleaned.csv
+2026-04-16 22:56:40,620  INFO  Pipeline DONE in 0s
+2026-04-16 23:50:43,041  INFO  Pipeline STARTED
+2026-04-16 23:50:43,341  INFO  Extracting: ../data/ibm_hr_raw.csv
+2026-04-16 23:50:43,468  INFO  Extracted: 1470 rows
+2026-04-16 23:50:43,469  INFO  Starting transform...
+2026-04-16 23:54:48,154  INFO  Pipeline STARTED
+2026-04-16 23:54:48,155  INFO  Extracting: ../data/ibm_hr_raw.csv
+2026-04-16 23:54:48,189  INFO  Extracted: 1470 rows
+2026-04-16 23:54:48,190  INFO  Starting transform...
+2026-04-16 23:54:48,413  INFO  Transform done: 1470 rows x 39 cols
+2026-04-16 23:54:48,482  INFO  Saved: ../data/ibm_hr_stats_ready.csv
+2026-04-16 23:54:48,484  INFO  Pipeline DONE in 0s
+2026-04-16 23:54:48,487  INFO  Pipeline STARTED
+2026-04-16 23:54:48,488  INFO  Extracting: ../data/ibm_hr_raw.csv
+2026-04-16 23:54:48,499  INFO  Extracted: 1470 rows
+2026-04-16 23:54:48,502  INFO  Starting transform...
+2026-04-16 23:54:48,518  INFO  Transform done: 1470 rows x 39 cols
+2026-04-16 23:54:48,544  INFO  Saved: ../data/ibm_hr_stats_ready.csv
+2026-04-16 23:54:48,546  INFO  Pipeline DONE in 0s

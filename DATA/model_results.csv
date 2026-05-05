@@ -1,0 +1,2 @@
+Model,Recall,AUC,F1,Accuracy,CV_Mean_AUC,CV_Std_AUC
+Random Forest,0.1064,0.7628,0.1639,0.8265,0.7967,0.0222

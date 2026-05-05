@@ -1,0 +1,4 @@
+dept_name,total_employees,employees_left,attrition_pct,avg_income,high_risk_count,overtime_count
+Sales,446,92.0,20.6,6959.0,40.0,128.0
+Human Resources,63,12.0,19.0,6655.0,9.0,17.0
+Research & Development,961,133.0,13.8,6281.0,104.0,271.0

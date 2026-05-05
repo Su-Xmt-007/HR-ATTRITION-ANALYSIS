@@ -1,0 +1,19 @@
+IBM HR ATTRITION -- AUTOMATED REPORT
+Generated: 2026-04-16 23:57:19
+=====================================
+OVERVIEW
+  Total      : 1470
+  Left       : 237 (16.12%)
+INCOME GAP
+  Stayed avg : 6832
+  Left avg   : 4787
+  Gap        : 2045 per month
+OVERTIME RISK
+  With OT    : 30.5%
+  Without OT : 10.4%
+TOP 3 ROLES
+JobRole
+Sales Representative     39.8
+Laboratory Technician    23.9
+Human Resources          23.1
+=====================================

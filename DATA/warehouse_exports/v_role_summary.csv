@@ -1,0 +1,32 @@
+job_role,job_level,dept_name,total_employees,attrition_pct,avg_income,avg_satisfaction,overtime_count
+Sales Representative,1,Sales,76,42.1,2507.0,2.67,22.0
+Laboratory Technician,3,Research & Development,3,33.3,5998.0,2.0,1.0
+Human Resources,3,Human Resources,6,33.3,9623.0,2.0,2.0
+Human Resources,1,Human Resources,33,30.3,2733.0,2.64,8.0
+Sales Executive,4,Sales,14,28.6,13203.0,2.43,5.0
+Laboratory Technician,1,Research & Development,200,28.0,2855.0,2.66,48.0
+Manager,3,Research & Development,8,25.0,12155.0,2.25,3.0
+Sales Executive,3,Sales,79,21.5,9125.0,2.76,22.0
+Research Scientist,1,Research & Development,234,19.2,2828.0,2.79,78.0
+Sales Executive,2,Sales,233,15.5,5801.0,2.77,67.0
+Manager,5,Sales,13,15.4,19088.0,2.69,4.0
+Sales Representative,2,Sales,7,14.3,3921.0,3.43,2.0
+Healthcare Representative,3,Research & Development,44,11.4,9364.0,2.73,11.0
+Manufacturing Director,3,Research & Development,45,11.1,9307.0,2.71,13.0
+Healthcare Representative,4,Research & Development,9,11.1,12973.0,3.0,5.0
+Laboratory Technician,2,Research & Development,56,8.9,4456.0,2.84,13.0
+Research Director,5,Research & Development,26,7.7,19205.0,2.69,9.0
+Manufacturing Director,2,Research & Development,90,5.6,5613.0,2.63,21.0
+Manager,5,Research & Development,23,4.3,19234.0,2.78,4.0
+Healthcare Representative,2,Research & Development,78,3.8,5865.0,2.79,21.0
+Research Scientist,2,Research & Development,57,3.5,4819.0,2.72,19.0
+Research Director,4,Research & Development,26,0.0,16429.0,2.85,5.0
+Manager,5,Human Resources,7,0.0,19198.0,2.86,1.0
+Research Scientist,3,Research & Development,1,0.0,9724.0,1.0,0.0
+Manager,4,Sales,20,0.0,16541.0,2.6,4.0
+Manager,4,Research & Development,23,0.0,16757.0,2.65,6.0
+Manager,4,Human Resources,4,0.0,16148.0,2.75,3.0
+Manager,3,Sales,4,0.0,12389.0,3.75,2.0
+Manufacturing Director,4,Research & Development,10,0.0,13383.0,3.0,5.0
+Human Resources,2,Human Resources,13,0.0,5563.0,2.62,3.0
+Research Director,3,Research & Development,28,0.0,12722.0,2.57,9.0
