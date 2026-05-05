@@ -74,7 +74,8 @@ The single most dangerous employee combination in the dataset:
 
 ### 2. 📉 Attrition Driver Profile
 
-![Driver Profile](REPORTS/driver_profile.png)
+<img width="1474" height="871" alt="p2_fig04_driver_profile" src="https://github.com/user-attachments/assets/1491b1a2-76d3-46ae-bd54-b77e8550c03a" />
+
 
 - **Sales Representatives** leave at **39.8%** — nearly **8× the Manager rate (5.0%)**
 - Pattern confirmed: Lower income → Higher attrition (ANOVA F=810.21, p<0.001)
@@ -84,7 +85,8 @@ The single most dangerous employee combination in the dataset:
 
 ### 3. 📈 Income Distribution — Log Transformation
 
-![Log Transform](REPORTS/log_transform.png)
+<img width="4000" height="1000" alt="p2_fig01_log_transform" src="https://github.com/user-attachments/assets/b957a434-6b79-4975-8416-1f7c13fd034b" />
+
 
 Raw income data was heavily right-skewed. Log transformation was applied to normalize the distribution for accurate statistical modeling.
 
@@ -92,7 +94,8 @@ Raw income data was heavily right-skewed. Log transformation was applied to norm
 
 ### 4. 🔗 Feature Correlation Matrix
 
-![Scatter Matrix](REPORTS/scatter_matrix.png)
+<img width="1300" height="1093" alt="p2_fig03_scatter_matrix" src="https://github.com/user-attachments/assets/712781dd-382e-4453-bc04-aaf8e2fa4022" />
+
 
 Multivariate analysis revealed key correlated features driving attrition, including `overtime`, `stock_option_level`, `business_travel`, `years_at_company`, and `monthly_income`.
 
@@ -100,7 +103,8 @@ Multivariate analysis revealed key correlated features driving attrition, includ
 
 ### 5. ↕️ Push vs Pull Attrition Factors
 
-![Push Pull](REPORTS/push_pull.png)
+<img width="1474" height="871" alt="p2_fig03_push_pull" src="https://github.com/user-attachments/assets/9a69c3b8-d215-4c63-b883-994e5f97fe10" />
+
 
 Employees leave due to both **push factors** (low pay, high workload, poor satisfaction) and **pull factors** (better opportunities, career growth). This chart quantifies both dimensions.
 
@@ -108,11 +112,14 @@ Employees leave due to both **push factors** (low pay, high workload, poor satis
 
 ### 6. 🤖 Machine Learning Model Performance
 
-![ROC Curve](REPORTS/roc_curve.png)
+<img width="1032" height="725" alt="p3_roc_curve" src="https://github.com/user-attachments/assets/bbc26c1c-2c45-45f1-9b6a-3f48786b2265" />
 
-![Confusion Matrix](REPORTS/confusion_matrix.png)
 
-![Feature Importances](REPORTS/feature_importances.png)
+<img width="846" height="733" alt="p3_confusion_matrix" src="https://github.com/user-attachments/assets/7d625d62-f3ca-445a-8c21-be96d7d14ef0" />
+
+
+<img width="1335" height="727" alt="p3_feature_importances" src="https://github.com/user-attachments/assets/1371bd7d-1cd9-43f1-9a79-579f7e11adfb" />
+
 
 | Metric | Score |
 |---|---|
@@ -126,7 +133,8 @@ Employees leave due to both **push factors** (low pay, high workload, poor satis
 
 ### 7. 🧪 Statistical Validation
 
-![CLT Demo](REPORTS/clt_demo.png)
+<img width="1514" height="595" alt="p2_fig02_clt_demo" src="https://github.com/user-attachments/assets/ff9b4d46-efdb-40de-9f4f-94b5e0100929" />
+
 
 - **Chi-square test:** Overtime × Attrition — χ²=87.56, p<0.001 ✅
 - **Z-score:** Company attrition (16.12%) vs industry benchmark (13%) — z=3.26, p<0.001 ✅
